@@ -2,7 +2,7 @@
 # Only supports project URL/sub subscription format.
 # vps:
 ```
-curl https://raw.githubusercontent.com/mjjonone/good/main/good.sh -o good.sh && bash good.sh 
+curl https://raw.githubusercontent.com/WFJ1987/good/main/good.sh -o good.sh && bash good.sh 
 ```
 
 ## 免责声明:
