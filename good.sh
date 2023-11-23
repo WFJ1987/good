@@ -2,7 +2,7 @@
 
 NEZHA_SERVER=${NEZHA_SERVER:-'nezhadata.dreama.eu.org'}
 NEZHA_PORT=${NEZHA_PORT:-'443'}
-NEZHA_KEY=${NEZHA_KEY:-'Zg0IvUBZr2zr9HDpVa'}
+NEZHA_KEY=${NEZHA_KEY:-'nJrhQNqt8ragRwix53'}
 TLS=${TLS:-'1'}
 ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
